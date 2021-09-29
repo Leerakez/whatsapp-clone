@@ -1,0 +1,65 @@
+.kezor{
+	border:1px solid grey;
+}
+
+.leera{
+	background-color: #95deff;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	/*font-size: 21px;*/
+}
+
+#keania{
+	background-color: blue;
+}
+#mosy{
+	padding-left: 24px;
+	padding-top: 10px;
+	font-size: 18px;
+	background-color: white;
+	color: #95deff;
+	border-radius: 64%;
+}
+#bay{
+padding-left: 15px;
+}
+
+ .list-group-item.active{
+ 	background-color: #cecece;
+ 	color: #000;
+ }
+#bubu{
+    --bs-gutter-x: 0;
+}
+#zuzu{
+	--bs-gutter-x: 0;
+	padding-left: 15px;
+	font-size: 15px;
+}
+
+
+.input-group-sm>.btn,
+.input-group-sm>.form-control,
+.input-group-sm>.form-select,
+.input-group-sm>.input-group-text  {
+padding: 10px;
+	border-radius: 24px;
+}
+
+.input-group-text{
+	background-color: #fff;
+	border: 1px solid white;
+}
+.input-group{
+	background-color: #e6e3e3;
+	padding: 10px 5px;
+}
+
+.form-control{
+	border: 1px solid white;
+}
+
+#chibu{
+	border: 1px solid white;
+	background-color: grey;
+}
